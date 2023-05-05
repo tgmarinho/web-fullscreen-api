@@ -1,0 +1,19 @@
+{
+  "name": "web-fullscreen-api",
+  "version": "1.0.0",
+  "description": "test fullscreen api",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tgmarinho/web-fullscreen-api.git"
+  },
+  "author": "Thiago Marinho",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tgmarinho/web-fullscreen-api/issues"
+  },
+  "homepage": "https://github.com/tgmarinho/web-fullscreen-api#readme"
+}
